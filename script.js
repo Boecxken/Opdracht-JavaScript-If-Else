@@ -27,11 +27,11 @@ else {
 
 if (driverStatus == "bob") {
 
-    console.log("Je mag rijden!")
+    console.log("Je mag rijden!");
 }
 
 else {
 
-    console.log("Neem een taxi.")
+    console.log("Neem een taxi.");
 
 }
